@@ -1,0 +1,4 @@
+# Signed participant consent forms contain personal data and must never be
+# committed. They are kept privately by the team, outside this repository.
+# Matches any file or folder whose name contains "consenso" (any letter case).
+*[Cc][Oo][Nn][Ss][Ee][Nn][Ss][Oo]*
